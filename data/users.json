@@ -1,0 +1,20 @@
+[
+  {
+    "firstname" : "Student",
+    "lastname" : "one",
+    "father" : "studentone father",
+    "mother" : "studentone mother",
+    "email" : "studentoneemail",
+    "password" : "studentonepassword",
+    "phone" : "+9639923892832",
+    "role" : "s",
+    "gender" : "m",
+    "dateOfBirth" : "2002-02-02",
+    "image" : "studentone image",
+    "yearId" : "",
+    "departmentId" : "",
+    "registrationYear" : "2011-03-07",
+    "serialNumber" : "",
+    "code" : ""
+  }
+]
